@@ -1,0 +1,2 @@
+I created an image gallery using HTML and CSS to showcase my shoe designs. The images are displayed in rows using flexbox, with four or two images in a row, with a title and colored outline and padding which matches the shoe color.
+I used reference from the MDN Web Docs.learned in class. I referred to the CSS — Styling the Web: Flexbox section for the gallery layout. SO my images are aligned properly. https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
